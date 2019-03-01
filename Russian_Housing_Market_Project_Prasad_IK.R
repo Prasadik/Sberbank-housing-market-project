@@ -1,4 +1,4 @@
-#Remove all objects from R workspac
+#Remove all objects from R workspace
 rm(list=ls())
 
 #Set current working directory where the data_set files are stored
